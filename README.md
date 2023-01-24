@@ -1,4 +1,3 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapercave.com%2Ffront-end-developerwallpapers&psig=AOvVaw1VmKMct_6S0foPs9N5jXdb&ust=1674643619434000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLCb-OSD4PwCFQAAAAAdAAAAABAE)](https://github.com/hanzalatafzeel)
 
 <h1 align="center">Hi 👋, I'm Hanzala Tafzeel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
